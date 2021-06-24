@@ -1,7 +1,7 @@
 
 # C#BasicsFileManager
 
-Foobar is a Python library for dealing with word pluralization.
+This is a simple file manager written on C# with Windows Forms.
 
 # Interface
 
