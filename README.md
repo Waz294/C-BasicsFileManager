@@ -19,7 +19,6 @@ This is command line.
 
 Here's list of commands:
 
-```
 1. <span style="color:yellow">help</span> command_name - Output list of commands.
     - command_name - output info about a command.
 
@@ -35,6 +34,5 @@ Here's list of commands:
 
 5. <span style="color:yellow">cd</span> path - Move to new catalogue.
     - path - directory path. Can be relative.
-    
+
 6. <span style="color:yellow">clr</span> - Clear output window.
-```
